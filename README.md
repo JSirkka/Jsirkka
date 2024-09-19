@@ -1,4 +1,4 @@
-## Hi there, Jonas 👋
+## Hi there, I'm Jonas 👋
 
 <!--
 **JSirkka/Jsirkka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
